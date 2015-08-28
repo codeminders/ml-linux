@@ -1,0 +1,15 @@
+Source: vowpal-wabbit
+Section: unknown
+Priority: optional
+Maintainer: root <root@unknown>
+Build-Depends: debhelper (>= 8.0.0), autotools-dev, libboost-all-dev
+Standards-Version: 3.9.4
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/vowpal-wabbit.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/vowpal-wabbit.git;a=summary
+
+Package: vowpal-wabbit
+Architecture: amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: vowpal-wabbit
+ <insert long description, indented with spaces>

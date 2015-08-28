@@ -1,0 +1,5 @@
+vowpal-wabbit (8.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- root <root@unknown>  Fri, 28 Aug 2015 14:14:59 +0300
