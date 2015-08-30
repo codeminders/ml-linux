@@ -1,0 +1,2 @@
+ffm-predict usr/local/bin/
+ffm-train usr/local/bin/

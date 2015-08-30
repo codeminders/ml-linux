@@ -1,0 +1,5 @@
+libffm (1.12-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- root <root@unknown>  Sun, 30 Aug 2015 14:05:55 +0300

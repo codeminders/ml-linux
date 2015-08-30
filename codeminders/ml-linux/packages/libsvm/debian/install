@@ -1,0 +1,3 @@
+svm-predict usr/local/bin
+svm-scale usr/local/bin
+svm-train usr/local/bin
