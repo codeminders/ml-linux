@@ -1,0 +1,2 @@
+shlibs:Depends=libboost-program-options1.54.0, libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.6), libxml2 (>= 2.7.4), mlpack
+misc:Depends=

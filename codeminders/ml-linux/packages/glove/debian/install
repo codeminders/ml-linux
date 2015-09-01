@@ -1,0 +1,4 @@
+glove usr/local/bin
+cooccur usr/local/bin
+shuffle usr/local/bin
+vocab_count usr/local/bin

@@ -1,0 +1,5 @@
+glove (1.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- root <root@unknown>  Mon, 31 Aug 2015 17:50:10 +0300

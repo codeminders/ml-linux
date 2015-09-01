@@ -1,0 +1,5 @@
+fann (2.2.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- root <root@unknown>  Mon, 31 Aug 2015 18:09:38 +0300
