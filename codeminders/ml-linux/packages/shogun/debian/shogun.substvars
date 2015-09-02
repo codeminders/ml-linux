@@ -1,0 +1,2 @@
+shlibs:Depends=libatlas3-base, libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libgomp1 (>= 4.2.1), liblapack3 | liblapack.so.3, libstdc++6 (>= 4.8), libxml2 (>= 2.7.4), shogun, zlib1g (>= 1:1.1.4)
+misc:Depends=

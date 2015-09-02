@@ -1,0 +1,15 @@
+Source: shogun
+Section: unknown
+Priority: optional
+Maintainer: root <root@unknown>
+Build-Depends: debhelper (>= 8.0.0), cmake, build-essential, swig2.0, python-dev, python-numpy, libeigen3-dev, libatlas3-base, libblas-dev, liblapack-dev
+Standards-Version: 3.9.4
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/shogun.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/shogun.git;a=summary
+
+Package: shogun
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

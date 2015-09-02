@@ -1,0 +1,5 @@
+liblinear (2.01-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- root <root@unknown>  Tue, 01 Sep 2015 12:51:07 +0300
